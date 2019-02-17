@@ -1,10 +1,10 @@
-require_relative '../node'
+require_relative '../graph'
 
-RSpec.describe Node do
+RSpec.describe Graph::Node do
   let!(:node) do
-    Node.new(id: 1, children: [
-      Node.new(id: 2),
-      Node.new(id: 3)
+    Graph::Node.new(id: 1, children: [
+      Graph::Node.new(id: 2),
+      Graph::Node.new(id: 3)
     ])
   end
 
