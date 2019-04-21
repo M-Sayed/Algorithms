@@ -1,13 +1,16 @@
-# Rubalgos - Ruby Algorithms
-Implementing common algorithms and data structures in Ruby.
+# Algorithms
+Implementing and practicing algorithms and data structures in Ruby and/or C++.
 
-# Memories
-I was using C++ and I used to write this kind of things with it.
+# Why in Ruby? Isn't C++ enough?
+I used to program these funny stuff in C++, but currently I spend most of my day using Ruby, and I enjoy it a lot, so why not?
 
 # Purpose
-This repo exists only for the sake of memories retrieval, that's what I used to have fun with when I was practicing for ACM ICPC competitions.
+I spent more than a year away from competitive programming, and my brain got oxidised, so I need to brush it up again. :D
 
-Now, as I have fun with Ruby too, I decided to increase that fun by holding these memories and writing these useful things again, but this time in Ruby.
+Writing these stuff with Ruby to increase the fun level to its maxima.
 
 # How it works
-I only write these things only when I need it or when I've a spare time and instead of feeling bored, I go and write some Ruby code instead.
+I only write these things only when I need it or when I've a spare time and instead of feeling bored, I go and write some Ruby/C++ code instead.
+
+# What else?
+I used C++ only for competitive programming, I've never cared about writing clean code or well designed code in C++. I've never cared about OO in C++. So I think it's time for some good writings in C++, isn't it?
