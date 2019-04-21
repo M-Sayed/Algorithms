@@ -14,3 +14,14 @@ I only write these things only when I need it or when I've a spare time and inst
 
 # What else?
 I used C++ only for competitive programming, I've never cared about writing clean code or well designed code in C++. I've never cared about OO in C++. So I think it's time for some good writings in C++, isn't it?
+
+# Testing
+For now I only write tests for ruby implementation, but I intend to write tests for C++ implementation as well.
+
+## Ruby Tests
+I use `Rspec` to write tests in Ruby, you can run specs/tests using the following command.
+
+`rspec --pattern 'Ruby/**/specs/**/*.rb'`
+
+## C++ Tests
+Maybe later.

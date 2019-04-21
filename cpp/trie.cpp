@@ -55,8 +55,8 @@ int main() {
   root.insert("ab");
   root.insert("bcd");
 
-  cout<<root.word_exists("xyz")<<"\n";
-  cout<<root.word_exists("xy")<<"\n";
-  cout<<root.prefix_exist("xyz")<<"\n";
-  cout<<root.prefix_exist("bcc")<<"\n";
+  cout << root.word_exists("xyz")  << "\n";
+  cout << root.word_exists("xy")   << "\n";
+  cout << root.prefix_exist("xyz") << "\n";
+  cout << root.prefix_exist("bcc") << "\n";
 }
